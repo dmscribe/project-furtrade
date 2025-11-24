@@ -3,10 +3,10 @@
 
 [Python] [Django] 
 
-Software License
+## Software License
 This software is released under the terms of the MIT license.  See COPYING for more information or see https://opensource.org/license/MIT.
 
-What is Project Fur Trade? 
+## What is Project Fur Trade? 
 
 beadwork.ca is a full-stack Django platform (in active development) celebrating Indigenous beadwork, art, storytelling, and community — built as Project Fur Trade in deliberate homage to the historic trade routes that carried beads, stories, and relationships across Turtle Island.
 
